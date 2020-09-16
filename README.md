@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Thie project is hosted on firebase Click here: https://firegram-bf16e.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
